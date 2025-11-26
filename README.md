@@ -1,4 +1,4 @@
-# Train Ticket Booking Using Spring Boot Microservices - MG University
+# Train Ticket Booking Using Spring Boot Microservices                             
 
 
 
