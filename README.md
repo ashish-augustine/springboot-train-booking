@@ -3,12 +3,8 @@
 
 
 This is a Spring Boot application for booking the train tickets. <br/> The app uses Spring Boot Microserices in the backend and React in the front end. <br/> 
-
-
 The components involved this project: Eureka Service Discovery, API Gateway, User Service, Train Service, Booking Service, Payment Service, Redis caching, Kafka messaging, JWT Security, React Frontend, and Docker containerization. 
 <br/> 
-
-This design leverages multi-threading at web server, Kafka consumer, and DB transaction levels combined with asynchronous messaging to ensure the entire system handles very high concurrency safely, avoiding common pitfalls like race conditions or request overload. <br/> 
 
 
 
